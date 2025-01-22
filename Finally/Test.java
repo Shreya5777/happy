@@ -21,6 +21,8 @@ public class Test {
     	 
     	 System.out.println("my name is shreya");
      }
+     System.out.println("this is cjc classes");
+}
 }
 
     	 
